@@ -1,0 +1,4 @@
+[root]
+name = "rustparser"
+version = "0.1.0"
+

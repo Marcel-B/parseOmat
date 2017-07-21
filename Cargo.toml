@@ -1,0 +1,6 @@
+[package]
+name = "rustparser"
+version = "0.1.0"
+authors = ["Marcel work Win <m.benders@atlan-tec.com>"]
+
+[dependencies]
