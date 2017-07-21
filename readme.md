@@ -1,0 +1,2 @@
+<h1>Parse-O-Mat</h1>
+Erestzt in einer Textdatei als erstes alle ',' durch einen '.', und anschließend alle ';' durch ein ','. Die neue Version wird dann unter dem Namen 'copy.csv' im gleichen Verzeichnis wie die Quelldatei gespeichert.
